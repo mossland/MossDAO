@@ -22,7 +22,7 @@
   - 무모하게 도전합시다. 우리는 새로운 것을 두려워하지 않습니다.
   - 세상에 없던 것을 만듭시다.
 - 높은 기준을 추구합니다. (Top-notch Standards)
-- 평등: 모든 모스코인 홀더와 CyberTHUG NFT 홀더는 동등합니다.
+- 평등: 모든 모스코인 홀더는 동등합니다.
 
 #### 모스랜드 미션
 - Virtual Reality, Augmented Reality, Non-fungible token 기술 기반의 서비스를 지속적으로 발굴
@@ -40,7 +40,7 @@
 
 ### 커뮤니케이션 채널
 
-Mossland 웹사이트는 DAO 회원에게 거버넌스 프로세스에 대해 설명을 제공하고 DAO Member 간의 커뮤니케이션 채널로 Discord, Snapshot 등 다양한 3rd Party 솔루션을 사용합니다. 모든 제안은 MIP (Mossland Idea Proposal) Idea 로 시작되게 됩니다. Idea는 Discourse 커뮤니케이션 채널에 게시물로 제출되며, 게시물이 공개되기 전에 DAO 승인 지침을 준수한다는 Moderator의 확인을 받아야 합니다. Idea를 게시하거나 댓글을 통해 아이디어에 피드백을 게시하기 위해서는 Mosscoin 혹은 CyberTHUG NFT 보유에 대한 지갑 인증 절차를 거쳐야 합니다.
+Mossland 웹사이트는 DAO 회원에게 거버넌스 프로세스에 대해 설명을 제공하고 DAO Member 간의 커뮤니케이션 채널로 Discord, Snapshot 등 다양한 3rd Party 솔루션을 사용합니다. 모든 제안은 MIP (Mossland Idea Proposal) Idea 로 시작되게 됩니다. Idea는 Discourse 커뮤니케이션 채널에 게시물로 제출되며, 게시물이 공개되기 전에 DAO 승인 지침을 준수한다는 Moderator의 확인을 받아야 합니다. Idea를 게시하거나 댓글을 통해 아이디어에 피드백을 게시하기 위해서는 Mosscoin 보유에 대한 지갑 인증 절차를 거쳐야 합니다.
 
 
 ## 제안 절차
@@ -148,7 +148,7 @@ DAO 자금 활용 방법에 대한 제안을 다시 제출.
 
 ## 투표
 
-Mossland DAO의 합의 메커니즘은 Mosscoin 혹은 CyberTHUG NFT 보유자가 DAO의 의사 결정에 참여할 수 있도록 투표를 공정하고 투명하며 저렴하게 하는 것을 목표로 합니다.
+Mossland DAO의 합의 메커니즘은 Mosscoin 보유자가 DAO의 의사 결정에 참여할 수 있도록 투표를 공정하고 투명하며 저렴하게 하는 것을 목표로 합니다.
 
 ### 투표 메커니즘
 
