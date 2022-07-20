@@ -26,10 +26,10 @@ Mossland is a blockchain-based metaverse project that connects the real and virt
 - Featuring digital NFT assets and services that reflect reality, and pursuing an integrated economic circulation structure with Moss Coin (MOC).
 
 ### Links to the Mossland Project
-Website
-Twitter
-GitHUB
-Upbit
+- [Website](https://www.moss.land/)
+- [Twitter](https://twitter.com/theMossland)
+- [GitHUB](https://github.com/mossland)
+- [Upbit](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-MOC)
 
 ## Membership
 
