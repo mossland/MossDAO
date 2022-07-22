@@ -21,13 +21,12 @@ The Governance Document outlines the Mossland DAO's proposal process and may be 
 - [Mossland Governance Model](Mossland_DAO_Governance.md)
 
 ### Mossland DAO BOARD
-The initial board members are elected and operated by the Mossland team and external personnel, and the initial board member's term is set for 12 months.
+The initial board members are made of the Mossland team and external personnel chosen by the Mossland team. The initial board member's term is set for 12 months. Any extension or changes to the board member will be decided through Mossland DAO. 
 
 ### Mossland DAO Management Team
-The team that will implement the decisions made by the Mossland DAO. Initial team members are elected from the Mossland team. For flexibility and scalability, Mossland DAO aims to determine the budget and role of each team rather than managing the election of individual team members with Mossland DAO. Initially, the goals of the Mossland DAO Management Team, which were initially composed of Mossland team members, were set to develop the initial DAO platform, support the operation of the DAO platform, and market it. After that, the goals and roles aim to be reset by the Mossland DAO.
-
+The initial Mossland DAO team that will implement the decisions of Mossland DAO will be chosen from the Mossland team. For flexibility and scalability, Mossland DAO aims to determine the budget and role of the whole team rather than evaluating inidivual members by the Mossland DAO. Initial goals of the initial Mossland DAO management team, Mossland Team, are development of the initial DAO platform, DAO platform operational support, and marketing. After the initial goals, new goals and roles will be rechosen by the Mossland DAO.  
 
 ### Reference: ApeCoin DAO Governance Model
-- We want to hard fork the ApeCoin DAO to design a draft Mossland DAO. Links to the original text and translation are provided below.
+- We hard forked the ApeCoin DAO to design the initial draft of Mossland DAO Governance model. Links to the original text and translation are provided below.
 - ApeCoin Governance: [Original link](https://apecoin.com/governance#ape-coin-dao-governance), [Translation link](https://docs.google.com/document/d/1btjU28myksFkbfPinrPvKQBoV90zEsaaMZ1mO2K ?usp=sharing)
 - Mossland Governance: [Draft Link] (https://docs.google.com/document/d/1NNjWfXuZeNGd9INjqMkyYwdgIBoMDTS5a0XpXuGtrkA/edit#heading=h.p6nore7b9xsz)
