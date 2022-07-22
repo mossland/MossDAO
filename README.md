@@ -6,11 +6,15 @@
 
 Mossland is a blockchain-based metaverse project that connects the real and virtual worlds, a hyper-connected world. Mossland's ultimate goal is to develop this hyper-connected technology and contribute to human society through the pursuit of core values and mission.
 
-### 모스랜드 DAO 전환을 위한 준비
+### Preparation to convert into Mossland DAO 
 
 모스랜드는 DAO(decentralized autonomous organization) 거버넌스 도입을 통하여 모스랜드 생태계 기금의 운영, 프로젝트 개발과 운영 등 프로젝트의 미래와 비전을 모스코인 홀더가 원하는 방향에 더욱 일치시키고자 합니다. 
  - 모스랜드 DAO 거버넌스 모델은 [GitHub MossDAO repo](https://github.com/mossland/MossDAO)에 공개되어 실시간 업데이트됩니다. 
  - 2022년 하반기에 모스버스(모스랜드 메타버스) 공개와 함께 모스랜드 DAO 전환을 위한 투표가 진행 될 예정입니다.
+
+Mossland intends to further align the future and vision of the project, such as the operation of the Mossland Ecosystem Fund, and the project development and operation, to the direction desired by Moss Coin holders through the introduction of DAO (decentralized autonomous organization) governance.
+  - Mossland DAO governance model is published on [GitHub MossDAO repo] (https://github.com/mossland/MossDAO) and updated in real time.
+  - In the second half of 2022, along with the release of Mossverse (Mossland Metaverse), voting for conversion from Mossland into Mossland DAO will be held.
 
 ### Mossland Governance
 
