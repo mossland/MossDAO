@@ -9,7 +9,7 @@ Mossland is a blockchain-based metaverse project that connects the real and virt
 Mossland owns and operates a variety of smart contracts and services, starting with the blockchain-based metaverse project that connects the real and virtual worlds. Mossland DAO owns major smart contracts and NFT contracts, service servers, and marketplaces related to the Mossland project, and manages the Mossland project’s ecosystem funds through a decentralized governance framework. The Mossland DAO follows a proposal process on how the Mossland Foundation allocates the ecosystem funds to promote a diverse and self-sufficient ecosystem. We expect that the Mossland DAO will further align the future of the Mossland project in the direction desired by Mosscoin holders.
 
 The document below provides an overview of the Mossland DAO's proposal process and may be improved with input from the DAO community.
-- Mossland Governance Model [English](Mossland_DAO_Governance_EN.md) 
+- [Mossland Governance Model](Mossland_DAO_Governance_EN.md) 
 
 #### Mossland Improvement Proposal
 
