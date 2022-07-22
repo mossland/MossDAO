@@ -29,5 +29,5 @@ The initial Mossland DAO team that will implement the decisions of Mossland DAO 
 
 ### Reference: ApeCoin DAO Governance Model
 - We hard forked the ApeCoin DAO to design the initial draft of Mossland DAO Governance model. Links to the original text and translation are provided below.
-- ApeCoin Governance: [Original link](https://apecoin.com/governance#ape-coin-dao-governance), [Translation link](https://docs.google.com/document/d/1btjU28myksFkbfPinrPvKQBoV90zEsaaMZ1mO2K ?usp=sharing)
-- Mossland Governance: [Draft Link] (https://docs.google.com/document/d/1NNjWfXuZeNGd9INjqMkyYwdgIBoMDTS5a0XpXuGtrkA/edit#heading=h.p6nore7b9xsz)
+- ApeCoin Governance: [Original link](https://apecoin.com/governance#ape-coin-dao-governance), [Translation link](https://docs.google.com/document/d/1btjU28myksFkbfPinrPvKQBoV90zEsaaMZ1mO2K?usp=sharing)
+- Mossland Governance: [Draft Link](https://docs.google.com/document/d/1NNjWfXuZeNGd9INjqMkyYwdgIBoMDTS5a0XpXuGtrkA/edit#heading=h.p6nore7b9xsz)
