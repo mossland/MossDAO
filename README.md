@@ -21,5 +21,5 @@ Mossland DAO는 Luniverse 플랫폼에 의해 구현되고 Mossland DAO 공식 �
 
 Mossland DAO is implemented on the Luniverse platform and operated with community-driven governance through the Mossland DAO official proposal process.
 
-- (Sample) MIP-1: 모스랜드 프로젝트를 위한 DAO(탈중앙화 자율조직) 도입 제안 [Korean](MIP_Sample.md)
-- (Sample) MIP-1: Proposal for Introduction of DAO (Decentralized Autonomous Organization) for Mossland Project[English](MIP_Sample_EN.md) 
+- [(Sample) MIP-1: 모스랜드 프로젝트를 위한 DAO(탈중앙화 자율조직) 도입 제안](MIP_Sample.md)
+- [(Sample) MIP-1: Proposal for Introduction of DAO (Decentralized Autonomous Organization) for Mossland Project](MIP_Sample_EN.md) 
