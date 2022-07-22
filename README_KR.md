@@ -13,7 +13,7 @@
 
 아래 문서는 Mossland DAO의 제안 프로세스에 대한 개요를 담고 있으며 DAO 커뮤니티의 의견으로 내용이 개선될 수 있습니다.
 
-- Mossland Governance Model [Korean](Mossland_DAO_Governance_KR.md)
+- [Mossland Governance Model](Mossland_DAO_Governance_KR.md)
 
 #### Mossland Improvement Proposal
 
