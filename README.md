@@ -8,7 +8,7 @@
 
 모스랜드(Mossland)는 현실과 가상 세계를 잇는 블록체인 기반 메타버스 프로젝트로 시작하였습니다. Mossland 프로젝트의 생태계 기금은 분산 거버넌스 프레임워크인 Mossland DAO를 통해서 관리됩니다. Mossland DAO를 통해서 Mossland 프로젝트의 미래를 Mosscoin 홀더가 원하는 방향에 더욱 일치시킬 수 있음을 기대합니다. Mossland DAO는 다양하고 자급자족하는 생태계를 촉진하기 위해 Mossland 재단이 생태계 기금을 어떻게 분배할지 투표하는 제안 절차를 따릅니다. 본 문서는 Mossland DAO의 제안 프로세스에 대한 개요를 담고 있으며 DAO 커뮤니티의 의견으로 내용이 개선될 수 있습니다.
 
-- [Mossland Governance Model](Mossland_DAO_Governance.md)
+- Mossland Governance Model [(Korean)](Mossland_DAO_Governance_KR.md), [(English)](Mossland_DAO_Governance_EN.md) 
 
 ### 제안서 (Mossland Improvement Proposal) 샘플
 
