@@ -7,13 +7,14 @@
 - Created: 2022-07-18
 
 ### Rationale:
-We propose the introduction of DAO to develop Mossland into an ecosystem that supports Moss coin holders community-led initiatives.
+The introduction of DAO is to develop Mossland into an ecosystem that supports Moss coin holders' community-led initiatives.
 As the Mossland project’s ecosystem funds are managed through the Mossland DAO, a decentralized governance framework, we expect the Mossland DAO to further align the future of the Mossland project with the direction desired by Mosscoin holders.
 We believe that the introduction of DAO is very important to build and manage diversely distributed communities such as Mossland-related content production, cooperative projects, and support for secondary creations.
 
 ### Mossland DAO Overview
-We would like to design a draft Mossland DAO by hard forking the ApeCoin DAO (https://apecoin.com/governance), which the Mossland team considers to be the most ideal model among the recently designed DAO projects.
-Ultimately, the goal is for the DAO to be operated centered on Mosscoin holders, and various resources, including Mossland's funds, to be managed by the Mossland DAO.
+We would like to design a draft version of Mossland DAO Governance by hard forking the ApeCoin DAO Governance (https://apecoin.com/governance), which the Mossland team considers to be the most ideal model among the recently designed DAO projects.
+Ultimately, the goal is for the DAO to be operated by Mosscoin holders, and various resources, including Mossland's funds, to be managed by the Mossland DAO.
+
 
 ### Mossland Governance Model
 We designed a decentralized organization (DAO) governance model for the Mossland project.
