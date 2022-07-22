@@ -7,7 +7,7 @@
 - Created: 2022-07-18
 
 ### Rationale:
-We propose the introduction of DAO to develop Mossland into an ecosystem that supports Moss coin holders and cyberdoug community-led initiatives.
+We propose the introduction of DAO to develop Mossland into an ecosystem that supports Moss coin holders community-led initiatives.
 As the Mossland project’s ecosystem funds are managed through the Mossland DAO, a decentralized governance framework, we expect the Mossland DAO to further align the future of the Mossland project with the direction desired by Mosscoin holders.
 We believe that the introduction of DAO is very important to build and manage diversely distributed communities such as Mossland-related content production, cooperative projects, and support for secondary creations.
 
