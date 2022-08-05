@@ -47,3 +47,41 @@ Mossland DAO’s consensus mechanism aims to make voting fair, transparent and a
 Mossland intends to further align the future and vision of the project, such as the operation of the Mossland Ecosystem Fund, and the project development and operation, to the direction desired by Moss Coin holders through the introduction of DAO (decentralized autonomous organization) governance.
   - Mossland DAO governance model is published on [GitHub MossDAO repo](https://github.com/mossland/MossDAO) and updated in real time.
   - In the second half of 2022, along with the release of Mossverse (Mossland Metaverse), voting for conversion from Mossland into Mossland DAO will be held.
+
+### 7.1. Mossland Project's DAO Checklist 
+
+Centralization Risk Checklist
+1. Be able to propose changes to a system or network by the general public.
+2. Allow the general public to make changes to systems or networks without the consent of the project team, or implement public proposals voted by the token holding community, regardless of whether the project team agrees to the proposal. This should also include updates to network or system code that are not supported or developed by the project team.
+3. A developer who is not affiliated with the project team or is not paying for it is making significant contributions to the project. They must show that they are actively developing a network or system or are engaged in other essential tasks and responsibilities. For example) a pull request or commit in an open source repository.
+4. The network or system must be actively used for its intended purpose by an individual or group not part of the project team. Example) dApps, built projects, daily active users.
+
+Risk of active participation of the project team
+1. If possible, reduce the activity of the project team so that it is no longer critical to the value or success of the project.
+2. If possible, the structure should be changed so that there is no project team that the public regards as the team that centrally manages the tokens and the network.
+3. Do not discuss or promote the background of the project team in token marketing.
+4. If the project team is promoting widespread adoption and use of the network, it is better to stop doing so.
+
+### 7.2. Verification of Voting Solution through CyberTHUG Portal Development 
+
+
+The Mossland team has implemented the functions of suggesting ideas, voting, and checking results by developing the CyberTHUG project's Portal, and is verifying the operation. With the experience gained from the development and operation of CyberTHUG Portal, we are preparing to develop a stable Mossland DAO voting solution.
+
+- [CyberTHUG Portal] (https://portal.thecyberthug.com/)
+
+### 7.3. Mossland Metaverse (Mosverse) and voting solution
+
+Mossland's voting solution is not only available through the website, but we are preparing to make the voting solution available on Mossland's Metaverse (Mossverse) as well.
+In Mossverse, various functions will be implemented as buildings in the metaverse map, and the Mossland voting solution will be implemented as a building in the polling place.
+
+- Estimated specifications of the polling place building
+  - View voting list and details
+    - View closed votes, scheduled votes, and ongoing votes list
+    - View details of closed votes, scheduled votes, and ongoing votes
+    - Closed votes are displayed as closed, and the result announcement view should appear for votes that have published results.
+  - Voting participation function
+    - Check if you own MOC in your wallet
+    - Discrimination in the number of votes exercised according to the number of MOC owned
+    - Vote by calling the voting function on the voting contract on the Luniverse chain with the linked Metamask wallet
+
+![image](https://user-images.githubusercontent.com/38033515/182895266-bab1387d-c90d-4faa-a21e-e4a47cd5342f.png)
