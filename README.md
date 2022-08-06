@@ -67,7 +67,7 @@ Risk of active participation of the project team
 
 The Mossland team has implemented the functions of suggesting ideas, voting, and checking results by developing the CyberTHUG project's Portal, and is verifying the operation. With the experience gained from the development and operation of CyberTHUG Portal, we are preparing to develop a stable Mossland DAO voting solution.
 
-- [CyberTHUG Portal] (https://portal.thecyberthug.com/)
+- [CyberTHUG Portal](https://portal.thecyberthug.com/)
 
 ### 7.3. Mossland Metaverse (Mosverse) and voting solution
 
