@@ -84,4 +84,4 @@ In Mossverse, various functions will be implemented as buildings in the metavers
     - Discrimination in the number of votes exercised according to the number of MOC owned
     - Vote by calling the voting function on the voting contract on the Luniverse chain with the linked Metamask wallet
 
-![image](https://user-images.githubusercontent.com/38033515/182895266-bab1387d-c90d-4faa-a21e-e4a47cd5342f.png)
+![image](https://user-images.githubusercontent.com/109493075/183325542-34784203-58d1-44a9-990d-ca668184a986.png)
