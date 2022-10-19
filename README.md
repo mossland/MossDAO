@@ -1,3 +1,5 @@
+![MossDAO3](https://user-images.githubusercontent.com/109493423/196595271-aa64eda2-22ff-44df-ba88-49a56df536c7.png)
+
 # Mossland DAO
 
 ## 1. Mossland Vision Statement
